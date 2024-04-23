@@ -80,6 +80,7 @@
     </Compile>
     <Compile Include="MyCalendar.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Tallest Billboard.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="packages.config" />
